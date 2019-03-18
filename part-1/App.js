@@ -1,0 +1,1 @@
+class APP extends React.Component{}
